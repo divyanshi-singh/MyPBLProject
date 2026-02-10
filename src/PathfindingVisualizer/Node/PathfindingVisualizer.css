@@ -1,0 +1,21 @@
+.grid {
+    margin: 70px 0 0;
+    position:absolute;
+  }
+  .btn1{
+    margin-left: 60px;
+    background-color: blue;
+    color: white;
+    border-radius: 17%;
+    border: 2px solid black;
+  }
+  .btn2{
+    margin-left: 20px;
+    width: 200px; background-color:white;
+    color:royalblue;
+    border-radius: 17%;
+
+
+  }
+  
+  
